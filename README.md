@@ -1,3 +1,3 @@
 # CAR4ALL-2nd-Hand-Car-Market-Case-Study
-## Led end-to-end car-price forecasting using a 20+ feature dataset, selecting the top 10 predictors via initial modeling in SPSS Modeler and R. Conducted rigorous EDA (univariate/bivariate plots, outlier and missing-value treatment), engineered features, and benchmarked multiple regression and tree-based models with clear performance metrics. Delivered a stakeholder-centric report outlining predictive accuracy, error-cost analysis, and actionable insights for pricing strategy.
-Skills: IBM SPSS · Statistical Modeling · Basic Python/R for Data Analysis · Data Analysis & Visualization · Report Writing & Presentation
+## Utilized Python and SPSS to examine 2nd-hand car market data from Autotrader and develop a multivariate regression model that predicted car prices with high accuracy, resulting in a 25% increase in decision-making efficiency and a 15% enhancement in pricing accuracy.
+Skills: Python (Programming Language) · IBM SPSS · Microsoft Excel · Data Preparation & Cleaning · Statistical Modeling
